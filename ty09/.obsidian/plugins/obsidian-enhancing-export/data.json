@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "name": "Markdown"
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "PDF"
+    },
+    {
+      "name": "Word (.docx)",
+      "arguments": "--citeproc --csl \"D:/notes/ty09/docxset/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl\" --bibliography \"D:/notes/ty09/docxset/ref.bib\" -M reference-section-title=\"参考文献\" -M link-citations=true --reference-doc=\"D:/notes/ty09/docxset/templates_refine.docx\" -f markdown --resource-path=\"${currentDir}\" --resource-path=\"${attachmentFolderPath}\" -s -o \"${outputPath}\" -t docx"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Bibliography"
+    }
+  ],
+  "defaultExportDirectoryMode": "Auto",
+  "openExportedFile": true,
+  "env": {},
+  "showExportProgressBar": true,
+  "lastExportDirectory": {
+    "win32": "C:\\Users\\ty09m\\Desktop"
+  },
+  "lastEditName": "Word (.docx)",
+  "lastExportType": "Word (.docx)"
+}

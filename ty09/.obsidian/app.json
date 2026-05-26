@@ -1,0 +1,14 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "absolute",
+  "userIgnoreFilters": [
+    "images/"
+  ],
+  "useMarkdownLinks": true
+}

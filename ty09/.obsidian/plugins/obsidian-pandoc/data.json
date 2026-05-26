@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "C:\\Users\\ty09m\\AppData\\Local\\Pandoc\\pandoc.exe",
+  "pdflatex": "C:\\Users\\ty09m\\scoop\\apps\\miktex\\current\\texmfs\\install\\miktex\\bin\\x64",
+  "outputFolder": null,
+  "extraArguments": "--citeproc --csl=D:/nodes/ty09/docxset/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl  -M link-citations=true --reference-doc=D:/nodes/ty09/docxset/templates_refine.docx",
+  "exportFrom": "html"
+}

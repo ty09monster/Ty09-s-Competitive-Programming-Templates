@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d36dd737d7f3cfb1","type":"text","text":"文献调研与基础理论准备","x":-187,"y":60,"width":250,"height":60},
+		{"id":"0e129f76554eaefd","type":"text","text":"问题分析与优化方案设计","x":-187,"y":180,"width":250,"height":60},
+		{"id":"014bebfb51243835","type":"text","text":"了解相关技术理论和代码实现","x":160,"y":60,"width":280,"height":60},
+		{"id":"4271f925ff5c8f9f","type":"text","text":"撰写相关文档，确立实现方案","x":160,"y":180,"width":280,"height":60},
+		{"id":"7329a68bc977d02f","type":"text","text":"算法实现与代码开发","x":-187,"y":300,"width":250,"height":60},
+		{"id":"0e84bd6cb42344ef","type":"text","text":"论文撰写与成果总结","x":-187,"y":540,"width":250,"height":60},
+		{"id":"6ed8dc22320b3936","type":"text","text":"对算法进行性能评估","x":160,"y":420,"width":280,"height":60},
+		{"id":"383cca7e6b8cdee9","type":"text","text":"实验验证与结果分析","x":-187,"y":420,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3ea0660a36b4d0da","fromNode":"d36dd737d7f3cfb1","fromSide":"bottom","toNode":"0e129f76554eaefd","toSide":"top"},
+		{"id":"06e4dd1f5f697b15","fromNode":"0e129f76554eaefd","fromSide":"bottom","toNode":"7329a68bc977d02f","toSide":"top"},
+		{"id":"75762823c1a01c87","fromNode":"7329a68bc977d02f","fromSide":"bottom","toNode":"383cca7e6b8cdee9","toSide":"top"},
+		{"id":"dde2f81d4ad0daa1","fromNode":"383cca7e6b8cdee9","fromSide":"bottom","toNode":"0e84bd6cb42344ef","toSide":"top"},
+		{"id":"9b74cfee8ffee180","fromNode":"d36dd737d7f3cfb1","fromSide":"right","toNode":"014bebfb51243835","toSide":"left","toEnd":"none"},
+		{"id":"7aae86067dcf7ca8","fromNode":"0e129f76554eaefd","fromSide":"right","toNode":"4271f925ff5c8f9f","toSide":"left","toEnd":"none"},
+		{"id":"ef41dcd5d235dd29","fromNode":"383cca7e6b8cdee9","fromSide":"right","toNode":"6ed8dc22320b3936","toSide":"left","toEnd":"none"}
+	]
+}
