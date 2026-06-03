@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法竞赛入坑指南（入门）.md",
+                "file": "算法竞赛.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算法竞赛入坑指南（入门）"
+              "title": "算法竞赛"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法竞赛入坑指南（入门）.md",
+                "file": "算法竞赛.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法竞赛入坑指南（入门） 的大纲"
+              "title": "算法竞赛 的大纲"
             }
           }
         ],
@@ -171,13 +171,13 @@
   },
   "active": "f4d35f02a25cc0a5",
   "lastOpenFiles": [
-    "test.md",
     "算法竞赛入坑指南（入门）.md",
+    "开题报告——技术路线.canvas",
     "作业.md",
+    "test.md",
     "未命名 1.base",
     "未命名.base",
     "数学整理.md",
-    "开题报告——技术路线.canvas",
     "算法竞赛.md",
     "l,r.md",
     "模板 25_10_19.md",
